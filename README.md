@@ -1,4 +1,4 @@
-[Flash MoKee](https://flash.rom.mk/)
+[Flash MoKee](https://flash.mokeedev.com)
 ==========
 
 ADB Sideload via browser.
